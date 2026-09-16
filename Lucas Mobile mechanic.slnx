@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lucas Mobile mechanic/Lucas Mobile mechanic.vcxproj" Id="40b4c5b8-b8ab-4d79-95ab-b208b50367aa" />
+</Solution>
